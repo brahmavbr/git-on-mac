@@ -1,0 +1,6 @@
+# Installing *Git* on a *Mac*
+
+#shell command
+brew install git
+
+
